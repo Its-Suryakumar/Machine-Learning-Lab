@@ -1,0 +1,3 @@
+* https://www.kaggle.com/code/shihouinyoruichi/tumor-analysis-with-knn
+* https://www.kaggle.com/code/redwankarimsony/simple-linear-regression-for-beginners/notebook
+* https://www.kaggle.com/code/suryanshmehrotra/multiple-linear-regression
